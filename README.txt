@@ -1,5 +1,3 @@
-# udacity-cloud-project-one
-
 cloudfront url
 https://d2ya8riqxkz446.cloudfront.net
 
